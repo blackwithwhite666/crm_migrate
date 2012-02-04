@@ -1,0 +1,6 @@
+crm_migrate is a python command-line tool that simplify ``Pacemaker``
+HA cluster configuration.
+
+Usage:
+
+  ./migrate-vm.py -n <node-name> -d <host-name> -e <dest-host>
