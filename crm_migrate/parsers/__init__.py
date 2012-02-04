@@ -1,0 +1,1 @@
+from .cib_parser import CibConfig
